@@ -1,3 +1,5 @@
+<br>
+
 <h4 align="center">
 	<samp> Hi 👋🏽  I'm Alex! I'm a full stack TypeScript developer with an eye for design. </samp>
 </h4>
