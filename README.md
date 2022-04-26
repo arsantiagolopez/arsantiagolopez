@@ -71,4 +71,4 @@
 <a href="mailto:arsantiagolopez@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-1024.png" width="25"></img></a>
 </p>
 
-<h4 align="center"><samp>Check out some code below.</samp></h4>
+<h4 align="center"><samp>Check out some code below!</samp></h4>
