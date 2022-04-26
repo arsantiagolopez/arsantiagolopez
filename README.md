@@ -65,10 +65,10 @@
 <br>
 
 <p align="center" style="vertical-align: middle;">
-	<a href="https://alexandersantiago.com/"><img src="https://alexandersantiago.com/alex.png" width="19" style="margin-left: -1em;"></img></a>
-	<a href="https://instagram.com/asantilopez"><img src="https://icons.veryicon.com/png/o/application/fill-2/instagram-61.png" width="22"></img></a>
-	<a href="https://twitter.com/arsantiagolopez"><img src="https://icons.veryicon.com/png/o/miscellaneous/simple-linear-icon/icon-twitter.png" width="25"></img></a>
-<a href="mailto:arsantiagolopez@gmail.com"><img src="https://cdn0.iconfinder.com/data/icons/material-set-7-2/48/668-512.png" width="22" style="margin-left: -0.1rem;"></img></a>
+	<a href="https://alexandersantiago.com/"><img src="https://alexandersantiago.com/alex.png" width="20" style="margin-left: -1em;"></img></a>
+	<a href="https://instagram.com/asantilopez"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-1024.png" width="25"></img></a>
+	<a href="https://twitter.com/arsantiagolopez"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-512.png" width="25"></img></a>
+<a href="mailto:arsantiagolopez@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-1024.png" width="25"></img></a>
 </p>
 
 <h4 align="center"><samp>Check out some code below.</samp></h4>
