@@ -64,7 +64,7 @@
 
 <br>
 
-<p align="center">
+<p align="center" style="vertical-align: baseline;">
 	<a href="https://alexandersantiago.com/"><img src="https://alexandersantiago.com/alex.png" width="19" style="margin-left: -1em; vertical-align: middle;"></img></a>
 	<a href="https://instagram.com/asantilopez"><img src="https://icons.veryicon.com/png/o/application/fill-2/instagram-61.png" width="22" style="vertical-align: middle;"></img></a>
 	<a href="https://twitter.com/arsantiagolopez"><img src="https://icons.veryicon.com/png/o/miscellaneous/simple-linear-icon/icon-twitter.png" width="25" style="vertical-align: middle;"></img></a>
