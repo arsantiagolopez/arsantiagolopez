@@ -9,8 +9,8 @@
 <br>
 
 
-
-<table style="margin-left: auto; margin-right: auto;">
+<div align="center">
+<table>
 		<tr>
 			
 			<th>Languages</th>
@@ -61,6 +61,7 @@
 			<td><a href="https://chakra-ui.com/"><img src="https://img.shields.io/badge/Chakra%20UI-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white&color=303030"></img></a></td>
 		</tr>
 </table>
+</div>
 
 
 <br>
