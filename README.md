@@ -67,8 +67,8 @@
 <p align="center">
 	<a href="https://alexandersantiago.com/"><img src="https://alexandersantiago.com/alex.png" width="20" style="margin-left: -1em; vertical-align: middle;"></img></a>
 	<a href="https://instagram.com/asantilopez"><img src="https://icons.veryicon.com/png/o/application/fill-2/instagram-61.png" width="22" style="vertical-align: middle;"></img></a>
-	<a href="https://twitter.com/arsantiagolopez"><img src="https://icons.veryicon.com/png/o/miscellaneous/simple-linear-icon/icon-twitter.png" width="24" style="vertical-align: middle;"></img></a>
-<a href="mailto:arsantiagolopez@gmail.com"><img src="https://cdn0.iconfinder.com/data/icons/material-set-7-2/48/668-512.png" width="22" style="vertical-align: middle;"></img></a>
+	<a href="https://twitter.com/arsantiagolopez"><img src="https://icons.veryicon.com/png/o/miscellaneous/simple-linear-icon/icon-twitter.png" width="25" style="vertical-align: middle;"></img></a>
+<a href="mailto:arsantiagolopez@gmail.com"><img src="https://cdn0.iconfinder.com/data/icons/material-set-7-2/48/668-512.png" width="22" style="vertical-align: middle; margin-left: -0.1rem;"></img></a>
 </p>
 
 <h4 align="center"><samp>Check out some code below.</samp></h4>
