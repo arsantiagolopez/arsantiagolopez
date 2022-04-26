@@ -56,14 +56,14 @@
 	<td><a href="https://html.com/"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&color=303030"></img></a></td>
 	<td><a href="https://openzeppelin.com/"><img src="https://img.shields.io/badge/OpenZeppelin-OpenZeppelin.svg?style=flat-square&logoColor=white&color=303030&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjgzLjciPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojZmZmO308L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0yNTYsMjgzLjdWMjA5LjhIMTc1LjZBNjIuMSw2Mi4xLDAsMCwwLDEyMi4zLDI0MEw5Ni4yLDI4My42SDI1NloiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMCAwIDAgNzMuOSAyMTEuOSA3My45IDI1NiAwIDAgMCIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTEwMS40LDExNS40LjIsMjgzLjdIODYuNGwxMjEtMjAxLjRIMTU5LjhBNjguNDEsNjguNDEsMCwwLDAsMTAxLjQsMTE1LjRaIi8+PC9zdmc+"></img></a></td>
 	<td><a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&color=303030"></img></a></td>
-	<td><a href="https://swagger.io/"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white&color=303030"></img></a></td>
+	<td><a href="https://sequelize.org/"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white&color=303030"></img></a></td>
 	<td><a href="https://chakra-ui.com/"><img src="https://img.shields.io/badge/Chakra%20UI-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white&color=303030"></img></a></td>
 </tr>
 <tr>
 	<td><a href="https://www.w3schools.com/css/css_website_layout.asp"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&color=303030"></img></a></td>
 	<td><a href="https://mochajs.org/"><img src="https://img.shields.io/badge/-Mocha/Chai-%238D6748?style=flat-square&logo=mocha&logoColor=white&color=303030"></img></a></td>
 	<td><a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white&color=303030"></img></a></td>
-	<td><a href="https://www.apollographql.com/"><img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white&color=303030"></img></a></td>
+	<td><a href="https://swagger.io/"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white&color=303030"></img></a></td>
 	<td><a href="https://www.gatsbyjs.com/"><img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white&color=303030"></img></a></td>
 </tr>
 </table>
