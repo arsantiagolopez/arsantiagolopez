@@ -12,11 +12,13 @@
 
 <table style="margin-left: auto; margin-right: auto;">
 		<tr>
+			<samp>
 			<th>Languages</th>
 			<th>Blockchain</th>
 			<th>Databases</th>
 			<th>Backend</th>
 			<th>Frontend</th>
+			</samp>
 		</tr>
 		<!-------------------- First row ----------------------->
 		<tr>
