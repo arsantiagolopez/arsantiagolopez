@@ -69,9 +69,6 @@
 </table>
 </div>
 
-
-<br>
-
 <h4 align="center"><samp>Reach out,</samp></h4>
 
 <p align="center" style="vertical-align: middle;">
